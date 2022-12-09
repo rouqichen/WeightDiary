@@ -1,6 +1,12 @@
 {
   "activity": [
-    { "title": "Running", "calories_per_hour": "234","duration_minutes": "60", "total_calories": "354" }
+    { "title": "Running", "calories_per_hour": "679","Image": "https://i.pinimg.com/originals/ef/03/b0/ef03b0a4a976cd31d660d0879d326592.gif" },
+   { "title": "Walking", "calories_per_hour": "195","Image": "https://www.citypng.com/public/uploads/preview/mickey-mouse-cartoon-character-walking-image-png-11661032363mgtfxbgrsf.png" },
+    { "title": "Swimming", "calories_per_hour": "236","Image": "https://i.pinimg.com/originals/1e/d2/9e/1ed29eca5273e2eea99f1b79cc52dee9.png" },
+    { "title": "Cycling", "calories_per_hour": "472","Image": "https://thumbs.dreamstime.com/b/cycling-cartoon-road-cyclist-riding-bike-side-view-isolated-illustration-flat-design-134048355.jpg" },
+    { "title": "Dancing", "calories_per_hour": "354","Image": "https://www.kindpng.com/picc/m/8-83991_people-dancing-cartoon-hd-png-download.png" },
+        { "title": "Fishing", "calories_per_hour": "148","Image": "https://static.vecteezy.com/system/resources/previews/002/889/610/original/cartoon-man-fishing-with-hook-in-boat-lake-or-sea-illustration-free-vector.jpg" },
+        { "title": "Basketball", "calories_per_hour": "472","Image": "https://img.freepik.com/free-vector/boy-playing-basketball-cartoon-people-sport-icon-concept-isolated-flat-cartoon-style_138676-2193.jpg?w=2000" }
   ],
   "food": [
     { "id": 1, "body": "some comment", "postId": 1 }
