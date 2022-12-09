@@ -1,9 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "activity": [
+    { "title": "Running", "calories_per_hour": "234","duration_minutes": "60", "total_calories": "354" }
   ],
-  "comments": [
+  "food": [
     { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  ]
 }
